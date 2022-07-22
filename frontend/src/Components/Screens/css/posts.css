@@ -1,0 +1,15 @@
+.posts{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    max-width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Post{
+    width: 32.66%;
+    padding: .5rem 0;
+
+}
