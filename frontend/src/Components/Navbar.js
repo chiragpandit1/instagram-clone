@@ -8,7 +8,7 @@ const Navbar = () => {
       <nav>
         <div className="nav-wrapper white">
           <Link to="/" className="brand-logo">
-            Logo
+            Instagram
           </Link>
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>

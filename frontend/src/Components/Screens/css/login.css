@@ -1,0 +1,21 @@
+.card{
+    max-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10rem;
+    padding: 5rem;
+    display: grid;
+    justify-items: center;
+}
+.card button{
+    width: 75%;
+    background-image: linear-gradient(#ffffff, #dcdcdc);
+}
+.card h3{
+    font-size: 1rem;
+    margin: 2rem 0rem 0rem 0rem;
+}
+.be-heading{
+    font-size: 1.5rem;
+    margin-top: .5rem;
+}
