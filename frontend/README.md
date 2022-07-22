@@ -1,3 +1,8 @@
+I have used {BrowserRouter, Route} from 'react-router-dom' in app.js to update the dom.
+
+you can navigate the routes using the navbar [navbar.js]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
